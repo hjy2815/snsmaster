@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -22,7 +22,7 @@ textarea,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Arvo', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -36,7 +36,7 @@ textarea,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Arvo', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn {
   border-radius: 2.6em;
@@ -54,14 +54,14 @@ textarea,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Arvo', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Arvo', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -629,7 +629,7 @@ blockquote {
   font-style: normal;
 }
 .countdown .number {
-  font-family: 'Arvo', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .countdown1 .number-wrap {
   border-color: #f39c12;
@@ -674,7 +674,7 @@ blockquote {
 .person-info .title3,
 .team1 .title4,
 .person-info .title4 {
-  font-family: 'Arvo', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .team1 .subtitle1,
 .person-info .subtitle1,
@@ -706,7 +706,7 @@ blockquote {
   font-family: 'Open Sans', sans-serif;
 }
 .features9 .timeline-panel h4 {
-  font-family: 'Arvo', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .features9 .timeline-panel p {
   font-family: 'Open Sans', sans-serif;
@@ -803,6 +803,9 @@ blockquote {
 #header8-3 .testimonial-position {
   font-style: italic;
   color: #666666;
+}
+#header8-3 .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
 }
 #features7-7 .lead {
   color: #9fa3a7;
