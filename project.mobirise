@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "SNSMASTER",
         "meta_descr": "",
         "header_custom": "<head>\n    <title>SNSMASTER</title>\n    <meta property=\"og:url\" content=\"http://snsmaster.co.kr/\">\n    <meta property=\"og:title\" content=\"SNSMASTER\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/oRThzYg.png\">\n    <meta property=\"og:description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    ... \n</head>\n",
         "footer_custom": "",
