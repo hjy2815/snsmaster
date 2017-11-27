@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.5",
-    "uniqCompNum": 15,
+    "uniqCompNum": 19,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -363,8 +363,8 @@
             "showImages": true,
             "showTitles": true,
             "ShowTexts": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
@@ -475,10 +475,55 @@
           "_anchor": "features16-6"
         },
         {
-          "_styles": {},
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
           "_params": {
-            "logo": true,
-            "showTitles": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#16a085",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#16a085",
+            "overlayOpacity": 0.9
+          },
+          "title": "Thanks for your interest in SNSMASTER",
+          "text": "궁금한 점이 있으시면 언제든지 연락주세요.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://plus.kakao.com/home/@소통공간\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"imind-consulting mbr-iconfont mbr-iconfont-btn\"></span>무료상담</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call1",
+          "_anchor": "call1-f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -490,52 +535,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/snsmaster-413x85.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title1": "&nbsp;",
-          "form": {
-            "action": "hjy2815@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "text": "Copyright (c) 2017&nbsp;<a href=\"http://mobirise.com\">SNSMASTER</a>.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer4",
-          "_anchor": "footer4-c"
+          "_name": "footer2",
+          "_anchor": "footer2-i"
         }
       ]
     }

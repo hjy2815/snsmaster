@@ -835,3 +835,17 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
+#call1-f .display-1 {
+  font-weight: 700;
+}
+#call1-f .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+#call1-f .mbr-section-title {
+  font-size: 60px;
+}
+#footer2-i .mbr-section-text {
+  color: #fff;
+}
