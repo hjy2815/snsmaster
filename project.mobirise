@@ -507,7 +507,7 @@
           },
           "title": "MORE SERVICES\n",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">더 많은 서비스 보러가기</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#animated-bg1-n\" data-toolbar=\"-mbrBtnMove\">더 많은 서비스 보러가기</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
