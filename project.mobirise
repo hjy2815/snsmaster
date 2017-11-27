@@ -245,7 +245,7 @@
           },
           "_params": {
             "showImages": true,
-            "showNumber": true,
+            "showNumber": false,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
