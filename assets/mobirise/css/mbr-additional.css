@@ -835,6 +835,34 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
+#animated-bg1-n .display-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+#features5-k .lead {
+  color: #9fa3a7;
+}
+#features5-k .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-k .card-number {
+  left: -20px;
+}
+#features5-k .mbr-section-title B {
+  font-size: 46px;
+}
+#features4-m .mbr-section-title {
+  font-weight: 700;
+}
+#features4-m .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features4-m .mbr-section-subtitle B {
+  font-size: 23px;
+}
 #call1-f .display-1 {
   font-weight: 700;
 }
@@ -846,6 +874,11 @@ blockquote {
 #call1-f .mbr-section-title {
   font-size: 60px;
 }
-#footer2-i .mbr-section-text {
+#footer1-j .mbr-section-subtitle,
+#footer1-j .mbr-section-text {
   color: #fff;
+}
+#footer1-j .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
 }
