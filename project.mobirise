@@ -24,11 +24,12 @@
     },
     "versionFirst": "4.3.5",
     "uniqCompNum": 24,
-    "versionPublish": "4.4.1",
+    "versionPublish": "4.5.3",
     "favicon": "@PROJECT_PATH@/assets/images/heart-1-128x1280.png",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -36,7 +37,7 @@
         "main": true,
         "title": "SNSMASTER",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>SNSMASTER</title>\n    <meta property=\"og:url\" content=\"http://snsmaster.co.kr/\">\n    <meta property=\"og:title\" content=\"SNSMASTER\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/oRThzYg.png\">\n    <meta property=\"og:description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    ... \n</head>\n",
+        "header_custom": "<head>\n    <title>SNSMASTER</title>\n    <meta property=\"og:url\" content=\"http://snsmaster.co.kr/\">\n    <meta property=\"og:title\" content=\"SNSMASTER\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/oRThzYg.png\">\n    <meta property=\"og:description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"description\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n    <meta name=\"keywords\" content=\"SNS 좋아요·팔로워늘리기 자동시스템\">\n</head>\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -408,7 +409,6 @@
               "name": "twitter",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#fc7a60"
             }
@@ -420,7 +420,6 @@
               "name": "youtube",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#fc7a60"
             }
